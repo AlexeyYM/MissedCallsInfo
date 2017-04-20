@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Пропущенные звонки</string>
+
+    <string name="authButtonText">Авторизация</string>
+    <string name="mailRecipientButtonText">Принять</string>
+
+    <string name="mailRecipientHint">Введите адрес e-mail получателя</string>
+
+    <string name="statusTextDefault">Ваша почта: none</string>
+    <string name="statusTextNotLogin">none</string>
+    <string name="statusTextLogin">Ваша почта:</string>
+
+    <string name="emptyMailRecipient">Введите адрес e-mail</string>
+    <string name="emptyMailRecipientText">E-mail не введён</string>
+    <string name="emptyAuthDialog">Введите логин и пароль от вашей почты</string>
+
+    <string name="authDialogLoginInputHint">Введите логин от вашей почты</string>
+    <string name="authDialogPassInputHint">Введите пароль от вашей почты</string>
+    <string name="authDialogTitle">Авторизация</string>
+    <string name="authDialogButton">Ок</string>
+
+    <string name="mailTitle">Пропущенный звонок</string>
+</resources>
